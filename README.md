@@ -28,7 +28,7 @@ A Java-based **Student Management System** that allows users to **add, update, d
 ## 🔧 Installation & Usage
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/abdullahimran49/-Student-Management-System.git
+   git clone https://github.com/abdullahimran49/Student-Management-System.git
    ```
 2. **Compile the Java program**
    ```sh
